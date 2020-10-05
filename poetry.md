@@ -35,6 +35,22 @@ I wonder what dream will stand by me?
 
 <hr class="major" />
 
+header class="major">
+			<h1>Morning</h1>
+		</header>
+		<p>
+		The cold winds piercing into your bones</br>
+The big mouthed hen calling out</br>
+The mouth tells a tale of a smelly past</br>
+The night dreams aftermath</br>
+The slow motion</br> 
+The sounds of plates and.pots getting washed</br>
+The greetings that disturbs the silence</br>
+The clarity in the sky</br>
+A long hard dick that's how you know it's morning</p>
+
+<hr class="major" />
+
 
 </section>
 
