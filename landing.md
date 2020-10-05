@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: latest
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Feed your mind<br /> with words and delight.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
