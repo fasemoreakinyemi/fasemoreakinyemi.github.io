@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Poetry
+description: Mandela Fasemore
 nav-menu: true
 ---
 
