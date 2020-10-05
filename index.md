@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+The foundation of this collaborative work was instituted at a public hospital in Würzburg, Germany, Mandela and Reza were both transient patients. Reza is passionate about photography, he is an electrical engineer by profession. Mandela has written several unpublished essays, poems and short stories, He is lazy so rarely finishes his writing projects.
