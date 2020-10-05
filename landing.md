@@ -1,7 +1,7 @@
 ---
-title: Latest
+title: Recent
 layout: landing
-description: 'Feed your mind<br /> with words and delight.'
+description: 'Feed your mind<br /> Illuminate your life'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
