@@ -2,7 +2,7 @@
 title: Recent
 layout: landing
 description: 'Feed your mind<br /> Illuminate your life'
-image: assets/images/pic07.jpg
+image: assets/images/topsky.jpeg
 nav-menu: true
 ---
 
