@@ -2,7 +2,7 @@
 layout: post
 title: Photography
 description: Reza Naziri
-image: assets/images/pic11.jpg
+image: assets/images/kirche.jpeg
 nav-menu: true
 ---
 
