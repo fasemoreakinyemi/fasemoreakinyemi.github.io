@@ -1,5 +1,5 @@
 ---
-title: latest
+title: Latest
 layout: landing
 description: 'Feed your mind<br /> with words and delight.'
 image: assets/images/pic07.jpg
