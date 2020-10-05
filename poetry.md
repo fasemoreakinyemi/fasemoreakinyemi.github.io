@@ -45,7 +45,7 @@ nav-menu: true
 					The mouth tells a tale of a smelly past<br>
 					The night dreams aftermath<br>
 					The slow motion<br> 
-					The sounds of plates and.pots getting washed<br>
+					The sounds of plates and pots getting washed<br>
 					The greetings that disturbs the silence<br>
 					The clarity in the sky<br>
 					A long hard dick that's how you know it's morning</p>
