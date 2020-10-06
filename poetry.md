@@ -53,6 +53,13 @@ nav-menu: true
 		</div>
 
 <hr class="major" />
+
+<div class="row">
+	<div class="6u$ 12u$(medium)">
+		<ul class="actions fit">
+			<li><a href="#" class="button special fit fa-arrow-right">Next</a></li>
+		</ul>
+	</div>
 </div>
 </section>
 
