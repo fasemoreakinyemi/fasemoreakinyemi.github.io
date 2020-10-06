@@ -49,8 +49,12 @@ nav-menu: true
 					The greetings that disturbs the silence<br>
 					The clarity in the sky<br>
 					A long hard dick that's how you know it's morning</p>
+				<div>
+					<ul class="actions fit">
+						<li><a href="#" class="button special fit icon fa-arrow-right">Next</a></li>
+					</ul>
+			   	</div>
 			</div>
-		</div>
 
 
 
