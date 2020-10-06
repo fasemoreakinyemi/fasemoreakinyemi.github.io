@@ -11,7 +11,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<div class="row">
+		<div class="row" data-index="1">
 			<div class="6u 12u$(small)">
 				<header class="major">
 					<h1>The Ghost of Rawi</h1>
@@ -49,13 +49,11 @@ nav-menu: true
 					The greetings that disturbs the silence<br>
 					The clarity in the sky<br>
 					A long hard dick that's how you know it's morning</p>
-				<div>
+			</div>
+		</div>
 					<ul class="actions fit">
 						<li><a href="#" class="button special fit icon fa-arrow-right">Next</a></li>
 					</ul>
-			   	</div>
-			</div>
-		</div>
 	</div>
 </section>
 
