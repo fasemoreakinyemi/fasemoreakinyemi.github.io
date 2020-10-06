@@ -55,18 +55,8 @@ nav-menu: true
 					</ul>
 			   	</div>
 			</div>
-
-
-
-<div class="row">
-	<div class="6u$ 12u$(medium)">jk
+		</div>
 	</div>
-	<div class="6u$ 12u$(medium)">
-		<ul class="actions fit">
-			<li><a href="#" class="button special fit icon fa-arrow-right">Next</a></li>
-		</ul>
-	</div>
-</div>
 </section>
 
 </div>
