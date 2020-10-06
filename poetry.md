@@ -52,7 +52,7 @@ nav-menu: true
 			</div>
 		</div>
 
-<hr class="major" />
+
 
 <div class="row">
 	<div class="6u$ 12u$(medium)">
@@ -66,3 +66,4 @@ nav-menu: true
 </section>
 
 </div>
+<!--<hr class="major" />-->
