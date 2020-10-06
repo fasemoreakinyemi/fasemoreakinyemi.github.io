@@ -55,7 +55,7 @@ nav-menu: true
 
 
 <div class="row">
-	<div class="6u$ 12u$(medium)">
+	<div class="6u$ 12u$(medium)">jk
 	</div>
 	<div class="6u$ 12u$(medium)">
 		<ul class="actions fit">
