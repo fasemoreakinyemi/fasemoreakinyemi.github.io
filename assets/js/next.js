@@ -9,7 +9,7 @@ swap()
   
 function swap() {
     var items = document.querySelectorAll(".row");
-    var index = document.querySelector('.current').dataset.index;
+    var index = parseInt(document.querySelector('.current').dataset.index);
     var nextIndex = parseInt(index) + 1
     alert(nextIndex)
    var current = items[index-1]
