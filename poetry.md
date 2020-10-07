@@ -11,7 +11,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<div class="row" data-index="1">
+		<div class="row current" data-index="1">
 			<div class="6u 12u$(small)">
 				<header class="major">
 					<h1>The Ghost of Rawi</h1>
