@@ -1,6 +1,8 @@
 
 $(document).ready(function()
 {
-$("#next").click(alert("works"))
+$("#next").click(function(){
+                  alert("works")}
+                )
 
 });
