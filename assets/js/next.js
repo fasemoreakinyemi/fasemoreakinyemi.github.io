@@ -15,7 +15,7 @@ function swap() {
         nextIndex = 1 } 
    var current = items[index-1]
    var nextRow = items[nextIndex-1]
-   alert(nextRow)
+   alert(current)
    nextRow.classList.remove('hidden');
    current.classList.add('hidden');
    current.classList.remove('current');
