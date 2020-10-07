@@ -93,6 +93,28 @@ nav-menu: true
 					her truths are few her tricks are huge but her backside is terrible</p>
 			</div>
 		</div>
+		<div class="row hidden" data-index="3">
+			<div class="6u 12u$(small)">
+				<header class="major">
+					<h1>War</h1>
+				</header>
+				<p>
+					Life is a war a combination of small and great battles no one prepares you for <br>
+					your parents are in the great battle of providing, 9-5 everyday if you are lucky you see them a quarter to four <br> 
+					your teacher's are in the great battle of  occupation, pretend to you everything will be okay if  you know your abc and <br>
+					the war is yet to come to pass
+				</p>
+			</div>
+			<div class="6u 12u$(small)">
+				<header class="major">
+					<h1>Big bunda</h1>
+				</header>
+				<p>
+					She is my fiancee your future wife and and a john doe's girlfriend <br>
+					We trust her lies hate her truth believe her curves ands bends <br>
+					her truths are few her tricks are huge but her backside is terrible</p>
+			</div>
+		</div>
 					<ul class="actions fit">
 						<li id="next"><a href="#" class="button special fit icon fa-arrow-right">Next</a></li>
 					</ul>
