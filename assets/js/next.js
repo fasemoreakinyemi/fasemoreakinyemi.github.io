@@ -9,6 +9,7 @@ swap()
   
 function swap() {
     var items = document.querySelectorAll(".row");
+    alert(items.length)
     var index = document.querySelector('.current').dataset.index;
     var nextIndex;
     if (index == items.length) {
@@ -17,11 +18,11 @@ function swap() {
       nextIndex = index + 1
     }
    var current = items[index-1]
-   var next = items[nextIndex-1]
+   var nextRow = items[nextIndex-1]
    current.classList.add('hidden');
    current.classList.remove('current');
-   next.classList.add('current');
-   next.classList.remove('hidden');
+   nextRow.classList.remove('hidden');
+   nextRow.classList.add('current');
    
   }
   
