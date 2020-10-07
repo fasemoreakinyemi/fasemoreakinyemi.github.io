@@ -10,6 +10,7 @@ swap()
 function swap() {
     var items = document.querySelectorAll(".row");
     var index = document.querySelector('.current').dataset.index;
+    alert(index)
     var nextIndex = index + 1
     if (index == items.length) {
         nextIndex = 1 } 
