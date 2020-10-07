@@ -11,7 +11,6 @@ function swap() {
     var items = document.querySelectorAll(".row");
     var index = parseInt(document.querySelector('.current').dataset.index);
     var nextIndex = parseInt(index) + 1
-    alert(nextIndex)
    var current = items[index-1]
    var nextRow = items[index]
     if (index == items.length){
