@@ -11,11 +11,11 @@ function swap() {
     var items = document.querySelectorAll(".row");
     var index = document.querySelector('.current').dataset.index;
     var nextIndex = index + 1
+    alert(nextIndex)
     if (index == items.length) {
         nextIndex = 1 } 
    var current = items[index-1]
    var nextRow = items[nextIndex-1]
-   alert(current)
    nextRow.classList.remove('hidden');
    current.classList.add('hidden');
    current.classList.remove('current');
