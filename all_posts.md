@@ -1,12 +1,11 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
-author: null
 show_tile: false
+title: Photography
+description: Reza Naziri
+image: assets/images/Bodensee2.JPG
+nav-menu: true
 ---
 
 <h1>All posts</h1>
