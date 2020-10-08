@@ -1,7 +1,5 @@
 ---
 layout: photography
-nav-menu: true
-show_tile: false
 title: Photography
 description: Reza Naziri
 image: assets/images/Bodensee2.JPG
