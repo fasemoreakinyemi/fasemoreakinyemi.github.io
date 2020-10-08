@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: photography
 nav-menu: true
 show_tile: false
 title: Photography
