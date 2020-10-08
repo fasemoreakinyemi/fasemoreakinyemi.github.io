@@ -2,7 +2,7 @@
 layout: post
 title: Photography
 description: Reza Naziri
-image: assets/images/kirche.jpeg
+image: assets/images/Bodensee2.JPG
 nav-menu: true
 ---
 
