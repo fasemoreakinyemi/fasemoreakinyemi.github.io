@@ -36,5 +36,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+plugins:
+  - jekyll-seo-tag
 #plugins: jekyll-seo-tag
 #plugins: jekyll-sitemap
