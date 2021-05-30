@@ -4,7 +4,7 @@ subtitle:
 email: fasemoremandela@gmail.com
 description: A Poetry X Photography synthesis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://poetrybarn.de/# the base hostname & protocol for your site
 author:
 street_address:
 city: Würzburg
@@ -34,5 +34,7 @@ markdown: kramdown
 
 sass:
   style: compressed
+plugins:
+  - jekyll-sitemap
 #plugins: jekyll-seo-tag
 #plugins: jekyll-sitemap
