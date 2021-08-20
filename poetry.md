@@ -143,7 +143,7 @@ nav-menu: true
 			</div>
 		</div>
 					<ul class="actions fit">
-						<li id="next"><a href="#" class="button special fit icon fa-arrow-right">Next</a></li>
+						<li id="next"><a class="button special fit icon fa-arrow-right">Next</a></li>
 					</ul>
 	</div>
 </section>
