@@ -35,8 +35,6 @@ nav-menu: true
 					I wonder what dream will stand by me?
 				</p>
 			</div>
-			
-		</div>
 		<div class="row hidden" data-index="2">
 			<div class="6u 12u$(small)">
 				<header class="major">
