@@ -35,21 +35,7 @@ nav-menu: true
 					I wonder what dream will stand by me?
 				</p>
 			</div>
-			<div class="6u 12u$(small)">
-				<header class="major">
-					<h1>Morning</h1>
-				</header>
-				<p>
-					The cold winds piercing into your bones<br>
-					The big mouthed hen calling out<br>
-					The mouth tells a tale of a smelly past<br>
-					The night dreams aftermath<br>
-					The slow motion<br> 
-					The sounds of plates and pots getting washed<br>
-					The greetings that disturbs the silence<br>
-					The clarity in the sky<br>
-					A long hard dick that's how you know it's morning</p>
-			</div>
+			
 		</div>
 		<div class="row hidden" data-index="2">
 			<div class="6u 12u$(small)">
@@ -77,20 +63,6 @@ nav-menu: true
 					but like everything in life<br>
 					the war is yet to come to pass
 				</p>
-			</div>
-			<div class="6u 12u$(small)">
-				<header class="major">
-					<h1>Big bunda</h1>
-				</header>
-				<p>
-					She likes me you like her but she is in love with money <br>
-					She tells me am the only man in her life but still calls you my honey <br>
-					When she leaves my place she comes to your place and still call you my one and only <br>
-					spent the night on your bed but when i call her in the morning she says i <br>
-					Miss you my darling <br>
-					She is my fiancee your future wife and and a john doe's girlfriend <br>
-					We trust her lies hate her truth believe her curves ands bends <br>
-					her truths are few her tricks are huge but her backside is terrible</p>
 			</div>
 		</div>
 		<div class="row hidden" data-index="3">
